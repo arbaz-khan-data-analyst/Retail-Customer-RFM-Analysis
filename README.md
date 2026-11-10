@@ -141,7 +141,7 @@ Focuses on customer segmentation and country-level performance.
 
 ### Business Overview
 
-![Business Overview Dashboard](images/business_overview.png)
+![Business Overview Dashboard](https://github.com/arbaz-khan-data-analyst/Retail-Customer-RFM-Analysis/blob/main/Business%20Overview.mp4)
 
 ### RFM Analysis
 
