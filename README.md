@@ -156,26 +156,6 @@ Focuses on customer segmentation and country-level performance.
 - Country-wise customer and revenue comparisons.
 - Monthly, quarterly, and yearly performance trends.
 
-## Repository Structure
-
-```text
-Retail-Customer-RFM-Analysis/
-│
-├── SQL/
-│   └── data_cleaning_and_analysis.sql
-│
-├── Python/
-│   └── rfm_analysis.ipynb
-│
-├── Dashboard/
-│   └── Retail_Customer_RFM_Analysis.pbix
-│
-├── images/
-│   ├── business_overview.png
-│   └── rfm_analysis.png
-│
-└── README.md
-```
 
 ## Conclusion
 
