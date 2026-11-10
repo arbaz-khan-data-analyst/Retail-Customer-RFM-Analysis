@@ -145,7 +145,7 @@ Focuses on customer segmentation and country-level performance.
 
 ### RFM Analysis
 
-![RFM Analysis Dashboard](images/rfm_analysis.png)
+![RFM Analysis Dashboard](https://github.com/arbaz-khan-data-analyst/Retail-Customer-RFM-Analysis/blob/main/RFM%20Analysis.mp4)
 
 ## Key Analysis Areas
 
